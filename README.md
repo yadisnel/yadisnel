@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yadisnel
-- 👀 I’m interested in golang, python, rust, aws (backend developer)
+- 👀 I’m interested python, aws (backend developer)
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on  golang, python, rust
+- 💞️ I’m looking to collaborate on  python
 - 📫 How to reach me: https://www.linkedin.com/in/yadisnel, yadisnel@gmail.com 
 
 <!---
